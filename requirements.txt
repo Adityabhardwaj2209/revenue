@@ -1,0 +1,13 @@
+pandas
+jupyter
+celery
+redis
+sqlalchemy
+scikit-learn
+python-dotenv
+psycopg2-binary
+plotly
+seaborn
+matplotlib
+fastapi
+uvicorn
